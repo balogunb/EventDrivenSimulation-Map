@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ This\ class\ conducts\ the\ experiment\ and\ prints\ out\ the\ result\ both\ to\ the\ command\ line\ and\ to\ a\ text\ file\r\n\r\n\ @author\ Basit\ Balogun\ &\ Devin\ Murphy\r\n\ @version\ 12/9/2018\r\n
+comment1.params=
+comment1.target=ExperimentController()
+comment1.text=\r\nConstructor\ for\ this\ class
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Main\ method\r\nruns\ the\ run\ method
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\nRun\ method\r\nPrints\ out\ solution\ in\ console\r\n
+comment4.params=
+comment4.target=void\ populateMap()
+comment4.text=\r\n\ method\ populateMap\r\n\ Populates\ the\ map\ with\ all\ cities\ and\ roads\r\n
+numComments=5

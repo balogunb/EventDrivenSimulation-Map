@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WareHouseTest
+comment0.text=\r\n\ This\ is\ the\ JUnit\ test\ for\ the\ WareHouse\ class.\r\n\r\n\ @author\ Basit\ Balogun\ &\ Devin\ Murphy\r\n\ @version\ 12/10/2018\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testConstructor()
+comment3.params=
+comment3.target=void\ testAddCity()
+comment4.params=
+comment4.target=void\ testisEmpty()
+comment5.params=
+comment5.target=void\ testaddCargo()
+numComments=6

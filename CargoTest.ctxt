@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CargoTest
+comment0.text=\r\n\ This\ is\ the\ JUnit\ test\ for\ the\ cargo\ class.\r\n\r\n\ @author\ Basit\ Balogun\ &\ Devin\ Murphy\r\n\ @version\ 12/10/2018\r\n
+comment1.params=
+comment1.target=void\ testComparable()
+comment2.params=
+comment2.target=void\ testToStirng()
+numComments=3

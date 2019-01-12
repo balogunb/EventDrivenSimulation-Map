@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=City
+comment0.text=\r\n\ This\ class\ implements\ a\ graph's\ vertex\ as\ a\ City.\r\n\r\n\ @author\ Basit\ Balogun\ &\ Devin\ Murphy\r\n\ @version\ 12/9/2018\r\n
+comment1.params=n
+comment1.target=City(java.lang.String)
+comment1.text=\r\n\ City\ method\r\n\ @param\ String\r\nconstructor\ for\ City\ class
+comment2.params=w
+comment2.target=void\ addWareHouse(WareHouse)
+comment2.text=\r\n\ addWareHouse\ method\r\n\ @param\ WareHouse\ element\r\nAllows\ city\ to\ keep\ track\ of\ its\ warehouse
+comment3.params=c
+comment3.target=int\ compareTo(City)
+comment3.text=\r\n\ compareTo\ Method\r\n\ @param\ City\ c\ \r\n\ @return\ a\ value\ that\ reflects\ the\ nature\ of\ the\ comparison\r\n
+numComments=4

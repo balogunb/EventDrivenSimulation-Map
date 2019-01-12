@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cargo
+comment0.text=\r\n\ Creates\ a\ cargo\ and\ stores\ its\ index,\ size\ and\ city\ name.\r\n\r\n\ @author\ Basit\ Balogun\ &\ Devin\ Murphy\r\n\ @version\ 12/9/2018\r\n
+comment1.params=cargoSize\ index\ cityName
+comment1.target=Cargo(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ @param\ int\ cargoSize,\ int\ index,\ String\ cityName\r\nConstructor\ for\ Cargo
+comment2.params=c
+comment2.target=int\ compareTo(Cargo)
+comment2.text=\r\n\ compareTo\ Method\r\n\ @param\ Cargo\ c\ \r\n\ @return\ a\ value\ that\ reflects\ the\ nature\ of\ the\ comparison\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ toString\ method\r\n\ Convert\ the\ cargo\ to\ a\ string\ with\ all\ cargo\ info\r\n@return\ String\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\r\n\ This\ class\ handles\ the\ movement\ of\ trucks\ between\ logistics\ center\ and\ warehouses\r\n\ and\ also\ maintains\ and\ updates\ the\ remaining\ capacity\ of\ the\ truck\ itself.\r\n\r\n\ @author\ Basit\ Balogun\ and\ Devin\ Murphy\r\n\ @version\ 12/9/2018\r\n
+comment1.params=name\ currentCity
+comment1.target=Truck(int,\ City)
+comment1.text=\r\n\ @param\ int\ name,\ City\ currentCity\ element\r\nConstrutor\ for\ Truck
+comment2.params=arr
+comment2.target=boolean\ setLocation(java.util.ArrayList)
+comment2.text=\r\n\ setLocation\ Method\r\n\ @param\ ArrayList<WareHouse>\ arr\r\n\ @return\ boolean\r\n\ change\ the\ warehouse\ the\ truck\ is\ and\ returns\ false\ if\ truck\ is\ full\r\n
+comment3.params=
+comment3.target=int\ goHome()
+comment3.text=method\ goHome\r\n\ @return\ distance\ of\ current\ city\r\n\ returns\ the\ distance\ to\ be\ travelled\ when\ going\ home\ \r\n
+comment4.params=c
+comment4.target=void\ addCargo(Cargo)
+comment4.text=addCargo\ method\r\n\ @param\ Cargo\ c\r\n\ reduces\ the\ capacity\ of\ the\ truck\ by\ cargo\ size\ and\ updates\ it\r\n
+numComments=5
